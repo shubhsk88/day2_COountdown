@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
+.baseCountdown {
+  width: 100px;
+  height: 20px;
+  padding: 5px;
+  margin: -90px 30px;
+  text-align: center;
+  color: #3498db;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 30px;
+  position: relative;
+  font-family: 'Libre Franklin';
+}
+
+/* .baseCountdown {
+    
+    margin: 20px;
+    padding-top: 20px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+  } */
+span {
+  color: #c0392b;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  width: 100px;
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  padding-left: 60px;
+  margin-top: 200px;
+}
